@@ -16,13 +16,13 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+  "homepage": "https://github.com/macksyn/bobizaa",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
+    "url": "git+https://github.com/macksyn/bobizaa.git"
   },
   "bugs": {
     "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
